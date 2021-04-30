@@ -33,6 +33,8 @@ Instead of having two chains (Pow and PoS chains) produce blocks at the same rat
  
 
 5.2 Novel Blockchains Structure
-6.3 Novel Zero-sum Blockchain PoW/PoS Difficulty Adjustment Mechanism
+6.![Screen Shot 2021-04-30 at 3 48 52 PM](https://user-images.githubusercontent.com/82968967/116750675-d1052880-a9d0-11eb-99ce-2bcfb0058b53.png)
+
+7.3 Novel Zero-sum Blockchain PoW/PoS Difficulty Adjustment Mechanism
 
 

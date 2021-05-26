@@ -1,4 +1,4 @@
-# **Zero-sum Cryptocurrency System: A New Approach to Design a Scalable Blockchain Protocol (TBD)**
+# **Zero-sum Cryptocurrency System: A New Approach to Design a Stable Blockchain Protocol (TBD)**
 
 Author: Tuyet Duong 
 

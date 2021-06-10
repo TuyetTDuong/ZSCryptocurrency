@@ -1,0 +1,1 @@
+runMain examples.hybrid.HybridApp src/main/resources/settings.conf

@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/src/main/resources/logback.xml,/Users/hungnguyen/Downloads/Scorex/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/src/main/resources/swagger-ui,/Users/hungnguyen/Downloads/Scorex/target/scala-2.12/classes/swagger-ui)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/src/main/resources/swagger-ui/favicon-16x16.png,/Users/hungnguyen/Downloads/Scorex/target/scala-2.12/classes/swagger-ui/favicon-16x16.png)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/src/main/resources/swagger-ui/index.html,/Users/hungnguyen/Downloads/Scorex/target/scala-2.12/classes/swagger-ui/index.html)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/src/main/resources/swagger-ui/swagger-ui.js,/Users/hungnguyen/Downloads/Scorex/target/scala-2.12/classes/swagger-ui/swagger-ui.js)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/src/main/resources/swagger-ui/swagger-ui-standalone-preset.js.map,/Users/hungnguyen/Downloads/Scorex/target/scala-2.12/classes/swagger-ui/swagger-ui-standalone-preset.js.map)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/src/main/resources/swagger-ui/swagger-ui.css,/Users/hungnguyen/Downloads/Scorex/target/scala-2.12/classes/swagger-ui/swagger-ui.css)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/src/main/resources/swagger-ui/swagger-ui.js.map,/Users/hungnguyen/Downloads/Scorex/target/scala-2.12/classes/swagger-ui/swagger-ui.js.map)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/src/main/resources/swagger-ui/swagger-ui-bundle.js,/Users/hungnguyen/Downloads/Scorex/target/scala-2.12/classes/swagger-ui/swagger-ui-bundle.js)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/src/main/resources/swagger-ui/swagger-ui.css.map,/Users/hungnguyen/Downloads/Scorex/target/scala-2.12/classes/swagger-ui/swagger-ui.css.map)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/src/main/resources/swagger-ui/swagger-ui-standalone-preset.js,/Users/hungnguyen/Downloads/Scorex/target/scala-2.12/classes/swagger-ui/swagger-ui-standalone-preset.js)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/src/main/resources/swagger-ui/swagger-ui-bundle.js.map,/Users/hungnguyen/Downloads/Scorex/target/scala-2.12/classes/swagger-ui/swagger-ui-bundle.js.map)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/src/main/resources/swagger-ui/oauth2-redirect.html,/Users/hungnguyen/Downloads/Scorex/target/scala-2.12/classes/swagger-ui/oauth2-redirect.html)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/src/main/resources/swagger-ui/favicon-32x32.png,/Users/hungnguyen/Downloads/Scorex/target/scala-2.12/classes/swagger-ui/favicon-32x32.png)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/src/main/resources/reference.conf,/Users/hungnguyen/Downloads/Scorex/target/scala-2.12/classes/reference.conf)[0m

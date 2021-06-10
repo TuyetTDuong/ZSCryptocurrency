@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/examples/src/main/resources/settings3.conf,/Users/hungnguyen/Downloads/Scorex/examples/target/scala-2.12/classes/settings3.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/examples/src/main/resources/settings2.conf,/Users/hungnguyen/Downloads/Scorex/examples/target/scala-2.12/classes/settings2.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/examples/src/main/resources/settings9.conf,/Users/hungnguyen/Downloads/Scorex/examples/target/scala-2.12/classes/settings9.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/examples/src/main/resources/settings5.conf,/Users/hungnguyen/Downloads/Scorex/examples/target/scala-2.12/classes/settings5.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/examples/src/main/resources/settings.conf,/Users/hungnguyen/Downloads/Scorex/examples/target/scala-2.12/classes/settings.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/examples/src/main/resources/settings10.conf,/Users/hungnguyen/Downloads/Scorex/examples/target/scala-2.12/classes/settings10.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/examples/src/main/resources/settings4.conf,/Users/hungnguyen/Downloads/Scorex/examples/target/scala-2.12/classes/settings4.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/examples/src/main/resources/settings8.conf,/Users/hungnguyen/Downloads/Scorex/examples/target/scala-2.12/classes/settings8.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/examples/src/main/resources/settings7.conf,/Users/hungnguyen/Downloads/Scorex/examples/target/scala-2.12/classes/settings7.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/examples/src/main/resources/settings6.conf,/Users/hungnguyen/Downloads/Scorex/examples/target/scala-2.12/classes/settings6.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/examples/src/main/resources/reference.conf,/Users/hungnguyen/Downloads/Scorex/examples/target/scala-2.12/classes/reference.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/examples/src/main/resources/scripts/twinschainConfigGenerator.sh,/Users/hungnguyen/Downloads/Scorex/examples/target/scala-2.12/classes/scripts/twinschainConfigGenerator.sh)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/examples/src/main/resources/scripts/ips.sh,/Users/hungnguyen/Downloads/Scorex/examples/target/scala-2.12/classes/scripts/ips.sh)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/examples/src/main/resources/scripts/twinschainStatus.sh,/Users/hungnguyen/Downloads/Scorex/examples/target/scala-2.12/classes/scripts/twinschainStatus.sh)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/examples/src/main/resources/scripts/twinschainRebuildAndStart.sh,/Users/hungnguyen/Downloads/Scorex/examples/target/scala-2.12/classes/scripts/twinschainRebuildAndStart.sh)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/examples/src/main/resources/scripts/twinschainRebuild.sh,/Users/hungnguyen/Downloads/Scorex/examples/target/scala-2.12/classes/scripts/twinschainRebuild.sh)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/examples/src/main/resources/scripts/twinschainRerun.sh,/Users/hungnguyen/Downloads/Scorex/examples/target/scala-2.12/classes/scripts/twinschainRerun.sh)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/hungnguyen/Downloads/Scorex/examples/src/main/resources/api/testApi.yaml,/Users/hungnguyen/Downloads/Scorex/examples/target/scala-2.12/classes/api/testApi.yaml)[0m
